@@ -1,0 +1,35 @@
+namespace 冒泡排序
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] testArray = { 1,9,6,11,8,20 };
+            Sort(testArray);
+            foreach(int i in testArray)
+            {
+                Console.WriteLine(i);
+            }
+            
+        }
+        public static void Sort(int[]array) 
+        {
+            bool istrigger = true;
+            do
+            {
+                istrigger = false;
+                for (int i = 0; i < array.Length - 1; i++)
+                {
+                    if (array[i] > array[i + 1])
+                    {
+                        int temporary = array[i];
+                        array[i] = array[i + 1];
+                        array[i + 1] = temporary;
+                        istrigger = true;
+                    }
+                }
+            } while (istrigger);
+           
+        }
+    }
+}
