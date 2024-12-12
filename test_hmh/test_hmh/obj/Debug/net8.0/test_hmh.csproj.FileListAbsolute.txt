@@ -1,0 +1,14 @@
+D:\C#code\test_hmh\test_hmh\bin\Debug\net8.0\test_hmh.exe
+D:\C#code\test_hmh\test_hmh\bin\Debug\net8.0\test_hmh.deps.json
+D:\C#code\test_hmh\test_hmh\bin\Debug\net8.0\test_hmh.runtimeconfig.json
+D:\C#code\test_hmh\test_hmh\bin\Debug\net8.0\test_hmh.dll
+D:\C#code\test_hmh\test_hmh\bin\Debug\net8.0\test_hmh.pdb
+D:\C#code\test_hmh\test_hmh\obj\Debug\net8.0\test_hmh.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#code\test_hmh\test_hmh\obj\Debug\net8.0\test_hmh.AssemblyInfoInputs.cache
+D:\C#code\test_hmh\test_hmh\obj\Debug\net8.0\test_hmh.AssemblyInfo.cs
+D:\C#code\test_hmh\test_hmh\obj\Debug\net8.0\test_hmh.csproj.CoreCompileInputs.cache
+D:\C#code\test_hmh\test_hmh\obj\Debug\net8.0\test_hmh.dll
+D:\C#code\test_hmh\test_hmh\obj\Debug\net8.0\refint\test_hmh.dll
+D:\C#code\test_hmh\test_hmh\obj\Debug\net8.0\test_hmh.pdb
+D:\C#code\test_hmh\test_hmh\obj\Debug\net8.0\test_hmh.genruntimeconfig.cache
+D:\C#code\test_hmh\test_hmh\obj\Debug\net8.0\ref\test_hmh.dll
